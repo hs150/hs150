@@ -1,114 +1,103 @@
-<h2 align="left">Hi 👋! My name is Harsh and I'm a cse student from India looking forward to collaborate &team ups & participating in hackathons</h2>
+# 👋 Hi, I'm Harsh Kumar
 
-###
+<h3 align="center">
+🚀 CSE Student • Full Stack Developer • AI Enthusiast • Open Source Contributor
+</h3>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hs150&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
+<p align="center">
+  <a href="https://github.com/hs150">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Java+%7C+Python+%7C+C%2B%2B;AI+%26+Hackathon+Enthusiast;Always+Learning+Something+New!" alt="Typing SVG"/>
+  </a>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hs150&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
-</div>
+---
 
-<h2 align="left">#Connect with me</h2>
+## 🌟 About Me
 
-###
+* 🎓 B.Tech CSE Student
+* 💻 Passionate about Full Stack Development
+* 🤖 Interested in GameDev Web Dev & Intelligent Systems
+* 🌱 Currently learning **Next.js, Animation, Three.js & System Design**
+* ⚡ Love Hackathons & Open Source
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="69" height="35" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="69" height="35" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="69" height="35" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="69" height="35" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="69" height="35" alt="linkedin logo"  />
-</div>
+---
 
-## My Contribution Graph
+## 🚀 Tech Stack
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/hs150/hs150/output/pacman-contribution-graph-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/hs150/hs150/output/pacman-contribution-graph.svg"
-  />
-  <img
-    alt="Pacman contribution graph"
-    src="https://raw.githubusercontent.com/hs150/hs150/output/pacman-contribution-graph.svg"
-  />
-</picture>
+### Languages
 
-###
+<p>
+<img src="https://skillicons.dev/icons?i=java,react,python,javascript,html,nextjs,css" />
+</p>
 
-<h2 align="left">#SKILLS</h2>
+### Frontend
 
-###
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,threejs" />
+</p>
 
-<img align="right" height="199" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXV0MzNzMnplc2FyaHczenE5enlyMzh6b2R2aDgwYTJpd2NqNGliNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
+### Backend
 
-###
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,supabase" />
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="34" alt="javascript logo"  />
-  <img width="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="34" alt="react logo"  />
-  <img width="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="34" alt="html5 logo"  />
-  <img width="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="34" alt="css3 logo"  />
-  <img width="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="34" alt="nodejs logo"  />
-  <img width="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="34" alt="mysql logo"  />
-  <img width="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="34" alt="linkedin logo"  />
-  <img width="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="34" alt="npm logo"  />
-  <img width="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="34" alt="vscode logo"  />
-</div>
+### Tools
 
-###
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm" />
+</p>
 
-<br clear="both">
+---
 
+## 📈 Contribution Graph
 
-# 📊 GitHub Stats:
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hs150&theme=tokyo-night&hide_border=true"/>
 
-![](https://github-readme-stats.vercel.app/api?username=hs150&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+---
 
-![](https://streak-stats.demolab.com?user=hs150&theme=tokyonight&hide_border=true)
+## 🐍 Contribution Snake
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hs150&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+<img src="https://raw.githubusercontent.com/hs150/hs150/output/pacman-contribution-graph-dark.svg"/>
+</p>
 
+---
 
+## 🔥 GitHub Streak
 
-<h3 align="left">##Goals</h3>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=hs150&theme=tokyonight&hide_border=true"/>
+</p>
 
-###
+---
 
-<p align="left">-Build complete backend systems with auth,databases and APIs<br>-learn &Improve AI/ML skills through real world applications.<br>-participate in more hackathons and learn from real teams<br>-Contribute to open source and work  with others on useful tech.</p>
+## 🏆 GitHub Trophies
 
-###
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=hs150&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
 
-<h3 align="left">#Open To</h3>
+---
 
-###
+## 📫 Connect With Me
 
-<p align="left">-Collaboration on AI backend or IOT projects.<br>-Hackathons team ups.<br>-open source contributions(learning stage).</p>
+<p align="center">
+<a href="https://github.com/hs150">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
 
-###
+<a href="https://linkedin.com">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
 
-<h3 align="left">##Reach me</h3>
+<a href="mailto:hs150harsh@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+</p>
 
-###
+---
 
-<p align="left">-Email : hs150harsh@gmail.com<br></p>
-
-
-###
-
-<div align="center">
-  <img height="202" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd21rZTMzNmhwcHJzbDNhbnI0bnE2eG82MHFlbjdiazhqMWxzaGRidiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jBOOXxSJfG8kqMxT11/giphy.gif"  />
-</div>
-
-###
+<p align="center">
+⭐ Thanks for visiting my profile! ⭐
+</p>
