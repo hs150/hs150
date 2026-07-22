@@ -76,7 +76,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=hs150&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=hs150&theme=tokyonight&hide_border=true)
+![](https://streak-stats.demolab.com?user=hs150&theme=tokyonight&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hs150&layout=compact&theme=tokyonight&hide_border=true)
 
