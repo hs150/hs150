@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:22D3EE&height=220&section=header&text=Harsh%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Building%20in%20Public&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/hs150">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=8A2BE2&center=true&vCenter=true&width=600&lines=React+%2B+Next.js+%2B+Node.js;Java+%7C+Python+%7C+C%2B%2B;Shipping+at+hackathons+%E2%9A%A1;Currently+learning+Three.js+%2B+System+Design" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=8A2BE2&center=true&vCenter=true&width=600&lines=React+%2B+Next.js+%2B+Node.js;Java+%7C+Spring+%7C+SpringBoot;Shipping+at+hackathons+%E2%9A%A1;Currently+learning+Three.js+%2B+System+Design" alt="Typing SVG"/>
 </a>
 
 <br/>
