@@ -24,7 +24,7 @@ I'm a **B.Tech CSE student and Full Stack Developer** who enjoys building things
 My primary stack revolves around **React, Next.js, Node.js, Java, and Spring Boot**. I'm also exploring **AI/LLM applications, Three.js, WebGL, animation, and system design** to create more intelligent and interactive experiences.
 
 I enjoy solving problems, participating in hackathons, experimenting with new technologies, and continuously improving the way I build software.
-
+ ```
 
 const harsh = {
   role: "B.Tech CSE Student",
@@ -36,39 +36,9 @@ const harsh = {
     "System Design"
   ],
 
-  frontend: [
-    "React",
-    "Next.js",
-    "JavaScript",
-    "Tailwind CSS",
-    "Three.js"
-  ],
-
-  backend: [
-    "Node.js",
-    "Express.js",
-    "Java",
-    "Spring Boot"
-  ],
-
-  databases: [
-    "PostgreSQL",
-    "MySQL",
-    "MongoDB",
-    "Supabase"
-  ],
-
-  tools: [
-    "Git",
-    "GitHub",
-    "VS Code",
-    "Postman",
-    "Figma"
-  ],
-
   mindset: "Build. Learn. Improve. Ship."
 };
-
+```
 
 <br/>
 
@@ -112,13 +82,12 @@ Experimenting with **Three.js, WebGL, animations, and immersive interfaces** to 
 
 <tr>
 
-<td width="50%" valign="top">
+<td>
 
 ### 💻 Languages
 
 <img src="https://skillicons.dev/icons?i=java,js,python,cpp,html,css" alt="Programming Languages"/>
 
-<br/><br/>
 
 ### 🎨 Frontend
 
@@ -126,13 +95,12 @@ Experimenting with **Three.js, WebGL, animations, and immersive interfaces** to 
 
 </td>
 
-<td width="50%" valign="top">
+<td>
 
 ### ⚙️ Backend & Database
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,mysql,postgres,supabase" alt="Backend Technologies"/>
 
-<br/><br/>
 
 ### 🔧 Tools
 
@@ -157,11 +125,7 @@ Experimenting with **Three.js, WebGL, animations, and immersive interfaces** to 
 
 💻
 
-<br/>
-
 <b>Full Stack</b>
-
-<br/>
 
 Frontend + Backend + Database
 
@@ -171,11 +135,8 @@ Frontend + Backend + Database
 
 ⚡
 
-<br/>
-
 <b>Production</b>
 
-<br/>
 
 Building real-world applications
 
@@ -185,25 +146,22 @@ Building real-world applications
 
 🧠
 
-<br/>
 
 <b>Problem Solving</b>
 
-<br/>
 
 DSA + Development
 
 </td>
 
+
+
 <td align="center">
 
 🏆
 
-<br/>
-
 <b>Hackathons</b>
 
-<br/>
 
 Building under pressure
 
